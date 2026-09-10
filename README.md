@@ -20,3 +20,15 @@ And the final: DO NOT DELETE IT MANUALLY:
   And that's why you should NOT delete it manually: You can leave script which can't be deleted while it's running, which will work without the rest of the program, making errors, and... anyway, why tf do you need it??
 
   So, I use it every day, till I find the reason, why Temp files are filling up my laptop...
+
+
+P.S. : When you downloaded, and try to install, **Microsoft Defender** can block it
+<img width="542" height="506" alt="image" src="https://github.com/user-attachments/assets/a1c37833-16e2-42c0-860b-d078ebbdb955" />
+
+It happens because nobody has downloaded if before, and I haven't **digital signature** for it (it costs fckng $70-400 per year), so, if you are not afraid, go ahead, and press 
+<img width="608" height="161" alt="image" src="https://github.com/user-attachments/assets/5abe2807-5c6f-4266-8930-07a5cb73d673" />
+and then 
+<img width="440" height="320" alt="image" src="https://github.com/user-attachments/assets/a3ae1749-5b54-4454-bb9f-009057d5c99e" />
+
+Have a nice using 
+
