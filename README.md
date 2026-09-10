@@ -27,7 +27,9 @@ P.S. : When you downloaded, and try to install, **Microsoft Defender** can block
 
 It happens because nobody has downloaded if before, and I haven't **digital signature** for it (it costs fckng $70-400 per year), so, if you are not afraid, go ahead, and press 
 <img width="608" height="161" alt="image" src="https://github.com/user-attachments/assets/5abe2807-5c6f-4266-8930-07a5cb73d673" />
+
 and then 
+
 <img width="440" height="320" alt="image" src="https://github.com/user-attachments/assets/a3ae1749-5b54-4454-bb9f-009057d5c99e" />
 
 Have a nice using 
