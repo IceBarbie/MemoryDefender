@@ -6,7 +6,7 @@ But then I just deleted them, and forgot. Untill the next day...
 
 The situation repeated, and then I created this: simple utility for saving your disk space.
 
-After the instalation, and getting through Setup, you will see a new Shortcut on your desktop with name "Clean Temp". It's icon shows the fullness of Temp folder in GB, and changes backgroung depending on it.
+After instalation and getting through Setup, you will see a new Shortcut on your desktop with name "Clean Temp". It's icon shows the fullness of Temp folder in GB, and changes backgroung depending on it.
 You can use it in one way: just open it. Nothing else will happen except clearing the Temp folder, and a notificaton will appear with clearing details. 
 
 Don't delete this Shortcut manually, it will be deleted with uninstallation
